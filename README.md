@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaalisaran
+- 👋 Hi, I’m saran
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning BE. CSE
 - 💞️ I’m looking to collaborate on ...
