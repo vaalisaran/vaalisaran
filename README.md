@@ -1,7 +1,7 @@
 - 👋 Hi, I’m saran
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning BE. CSE
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning BE. CSE at NSCET.
+- 💞️ I’m looking to collaborate on 2029
 - 📫 How to reach me saran3031@gmail.com
 
 <!---
