@@ -1,11 +1,5 @@
-- 👋 Hi, I’m saran
-- 👀 I’m interested in programming
+- 👋 Hi, I’m Saran.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning BE. CSE at NSCET.
-- 💞️ I’m looking to collaborate on 2029
 - 📫 How to reach me saran3031@gmail.com
-
-
-<!---
-vaalisaran/vaalisaran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇
