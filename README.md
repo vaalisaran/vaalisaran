@@ -11,4 +11,4 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaalisaran&layout=compact)](https://github.com/vaalisaran/github-readme-stats)
  
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=vaalisaran)](https://github.com/vaalisaran/vaalisaran)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Day-Finder)](https://github.com/vaalisaran/Day-Finder)
