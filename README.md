@@ -2,4 +2,4 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning BE. CSE at NSCET.
 - 📫 How to reach me saran3031@gmail.com
-- 😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇😇
+- ![Github_Stats](https://github-readme-stats.vercel.app/api?username=vaalisaran&theme=vision-friendly-dark&show_icons=true)
