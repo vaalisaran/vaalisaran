@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning BE. CSE at NSCET.
 - 📫 How to reach me saran3031@gmail.com
 - ![Github_Stats](https://github-readme-stats.vercel.app/api?username=vaalisaran&theme=vision-friendly-dark&show_icons=true)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaalisaran&layout=compact)](https://github.com/vaalisaran/github-readme-stats)
