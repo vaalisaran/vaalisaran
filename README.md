@@ -14,4 +14,6 @@
  My Best:
 
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Day-Finder)](https://github.com/vaalisaran/Day-Finder)
+[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Day-Finder)](https://github.com/vaalisaran/Day-Finder)[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Death-Report)](https://github.com/vaalisaran/Death-Report)
+
+
