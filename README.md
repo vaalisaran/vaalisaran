@@ -4,8 +4,7 @@
 - 📫 How to reach me saran3031@gmail.com
  
  
- 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vaalisaran?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+     [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vaalisaran?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
 
 
@@ -14,6 +13,9 @@
  My Best:
 
 
-[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Day-Finder)](https://github.com/vaalisaran/Day-Finder)[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Death-Report)](https://github.com/vaalisaran/Death-Report)
+[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Day-Finder)](https://github.com/vaalisaran/Day-Finder)
+
+
+[![Day-Finder](https://github-readme-stats.vercel.app/api/pin/?username=vaalisaran&repo=Death-Report)](https://github.com/vaalisaran/Death-Report)
 
 
