@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **saran152004s@gmail.com**
+- 📫 How to reach me **smartsaran3031@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny**
 
